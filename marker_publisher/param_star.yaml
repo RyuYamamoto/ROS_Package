@@ -1,0 +1,28 @@
+background_b: 255
+background_g: 86
+background_r: 255
+copy:
+  background_b: 255
+  background_g: 86
+  background_r: 255
+  rosdistro: 'hydro
+
+    '
+  roslaunch:
+    uris: {host_ubuntu__54623: 'http://ubuntu:54623/'}
+  rosversion: '1.10.12
+
+    '
+  run_id: 6030fa40-b5a7-11e4-af8c-100ba90b744c
+  turtlesim: {name: my_turtle}
+rate: 40
+rosdistro: 'hydro
+
+  '
+roslaunch:
+  uris: {host_ubuntu__54623: 'http://ubuntu:54623/'}
+rosversion: '1.10.12
+
+  '
+run_id: 6030fa40-b5a7-11e4-af8c-100ba90b744c
+turtlesim: {name: my_turtle}
